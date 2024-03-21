@@ -1,5 +1,7 @@
 latest
 ------
+https://directdevops.blog/2023/11/19/devops-classroom-notes-19-nov-2023/
+https://directdevops.blog/2023/11/21/devops-classroom-notes-21-nov-2023/
 https://directdevops.blog/2023/11/22/devops-classroom-notes-22-nov-2023/
 https://directdevops.blog/2023/11/23/devops-classroom-notes-23-nov-2023/
 https://directdevops.blog/2023/11/24/devops-classroom-notes-24-nov-2023/
