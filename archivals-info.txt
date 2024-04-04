@@ -1,0 +1,17 @@
+1. springpetclinic-
+git clone https://github.com/spring-projects/spring-petclinic.git
+cd spring-petclinic
+./mvnw package
+java -jar target/*.jar
+You can then access the Petclinic at http://localhost:8080/
+
+2.openmrs-
+git clone https://github.com/openmrs/openmrs-core.git
+cd openmrs-core
+mvn package
+This will generate the OpenMRS application in webapp/target/openmrs.war which you have to deploy into an application server like for example tomcat
+
+3.simple-java-application-
+git clone https://github.com/saimahesh1239/simple-java-maven-app.git
+cd simple-java-maven-app
+mvn package
